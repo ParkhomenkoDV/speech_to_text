@@ -1,0 +1,5 @@
+.idea
+venv/
+
+speech_to_text/models
+*.mp3
